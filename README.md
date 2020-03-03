@@ -1,1 +1,1 @@
-# Data-Intensive-Computing
+# Distributed-Computing
